@@ -1,0 +1,6 @@
+@DonorRegistrationApp.Server_HostAddress = http://localhost:5206
+
+GET {{DonorRegistrationApp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
